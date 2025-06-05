@@ -1,0 +1,5 @@
+./file/student.json
+./file/teacher.json
+./file/course.json
+./file/class.json
+./file/bill.json
