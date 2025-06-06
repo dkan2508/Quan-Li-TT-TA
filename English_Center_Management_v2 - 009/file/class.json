@@ -1,0 +1,33 @@
+[{
+		"id":	10213123,
+		"courseID":	110,
+		"teacherID":	100,
+		"studentIDList":	[],
+		"metadata":	{
+			"studentCount":	0
+		}
+	}, {
+		"id":	999,
+		"courseID":	109,
+		"teacherID":	100,
+		"studentIDList":	[],
+		"metadata":	{
+			"studentCount":	0
+		}
+	}, {
+		"id":	100,
+		"courseID":	1293,
+		"teacherID":	102,
+		"studentIDList":	[],
+		"metadata":	{
+			"studentCount":	0
+		}
+	}, {
+		"id":	1010101,
+		"courseID":	109,
+		"teacherID":	100,
+		"studentIDList":	[],
+		"metadata":	{
+			"studentCount":	0
+		}
+	}]
