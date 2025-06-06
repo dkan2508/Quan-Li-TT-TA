@@ -1,0 +1,33 @@
+[{
+		"id":	3,
+		"soTien":	3,
+		"transactionTime":	1748593833,
+		"status":	2,
+		"sender":	{
+			"id":	3,
+			"sbj_type":	1
+		},
+		"receiver":	{
+			"id":	4,
+			"sbj_type":	1
+		},
+		"metadata":	{
+			"type":	1
+		}
+	}, {
+		"id":	5,
+		"soTien":	123,
+		"transactionTime":	1749218164,
+		"status":	0,
+		"sender":	{
+			"id":	3,
+			"sbj_type":	0
+		},
+		"receiver":	{
+			"id":	100,
+			"sbj_type":	1
+		},
+		"metadata":	{
+			"type":	0
+		}
+	}]

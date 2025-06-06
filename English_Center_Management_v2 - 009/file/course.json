@@ -1,0 +1,33 @@
+[{
+		"id":	109,
+		"ten":	"Dien tu tuong tu",
+		"hocPhi":	100
+	}, {
+		"id":	2,
+		"ten":	"c",
+		"hocPhi":	10
+	}, {
+		"id":	1,
+		"ten":	"b",
+		"hocPhi":	4
+	}, {
+		"id":	2,
+		"ten":	"a",
+		"hocPhi":	1
+	}, {
+		"id":	1,
+		"ten":	"a",
+		"hocPhi":	1
+	}, {
+		"id":	130,
+		"ten":	"Calculus II",
+		"hocPhi":	20000
+	}, {
+		"id":	110,
+		"ten":	"Data structure and Algorithm",
+		"hocPhi":	12000
+	}, {
+		"id":	100,
+		"ten":	"C/C++ Basics",
+		"hocPhi":	10000
+	}]

@@ -1,0 +1,37 @@
+[{
+		"id":	3,
+		"ten":	"Your name",
+		"trinhDoHocVan":	"TS"
+	}, {
+		"id":	3,
+		"ten":	"ABC",
+		"trinhDoHocVan":	"PGS"
+	}, {
+		"id":	10,
+		"ten":	"c",
+		"trinhDoHocVan":	"KL"
+	}, {
+		"id":	2,
+		"ten":	"b",
+		"trinhDoHocVan":	"KL"
+	}, {
+		"id":	3,
+		"ten":	"a",
+		"trinhDoHocVan":	"PTS"
+	}, {
+		"id":	1,
+		"ten":	"a",
+		"trinhDoHocVan":	"TS"
+	}, {
+		"id":	102,
+		"ten":	"Dinh Thanh Xuan",
+		"trinhDoHocVan":	"GS"
+	}, {
+		"id":	101,
+		"ten":	"Nguyen Duc Minh",
+		"trinhDoHocVan":	"PGS"
+	}, {
+		"id":	100,
+		"ten":	"Nguyen Thanh Loan",
+		"trinhDoHocVan":	"GS"
+	}]
