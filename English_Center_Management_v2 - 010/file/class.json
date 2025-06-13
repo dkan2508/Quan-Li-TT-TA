@@ -1,0 +1,49 @@
+[{
+		"id":	1010101,
+		"courseID":	109,
+		"teacherID":	100,
+		"studentIDList":	[],
+		"metadata":	{
+			"studentCount":	0
+		}
+	}, {
+		"id":	100,
+		"courseID":	1293,
+		"teacherID":	102,
+		"studentIDList":	[],
+		"metadata":	{
+			"studentCount":	0
+		}
+	}, {
+		"id":	999,
+		"courseID":	109,
+		"teacherID":	100,
+		"studentIDList":	[],
+		"metadata":	{
+			"studentCount":	0
+		}
+	}, {
+		"id":	10213123,
+		"courseID":	110,
+		"teacherID":	100,
+		"studentIDList":	[],
+		"metadata":	{
+			"studentCount":	0
+		}
+	}, {
+		"id":	889,
+		"courseID":	100,
+		"teacherID":	102,
+		"studentIDList":	[3, 12],
+		"metadata":	{
+			"studentCount":	2
+		}
+	}, {
+		"id":	890,
+		"courseID":	100,
+		"teacherID":	101,
+		"studentIDList":	[18, 1030],
+		"metadata":	{
+			"studentCount":	2
+		}
+	}]
